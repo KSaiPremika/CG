@@ -1,2 +1,2 @@
 # CG
-CG pro implemented using opengl
+CG project implemented using opengl
